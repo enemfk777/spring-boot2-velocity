@@ -10,7 +10,7 @@
     </parent>
     <groupId>org.enemfk777</groupId>
     <artifactId>spring-boot2-velocity</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>spring-boot2-velocity</name>
     <description>Spring Boot Velocity Module For 2.x</description>
     <properties>

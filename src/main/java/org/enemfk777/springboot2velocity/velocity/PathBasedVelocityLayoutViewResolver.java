@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.*;
 
-public class PathBasedVelocityLayoutViewResolver extends VelocityLayoutViewResolver {
+public class PathBasedVelocityLayoutViewResolver extends EmbeddedVelocityLayoutViewResolver {
 
   private static final String PATH_SEPARATOR = "/";
 
