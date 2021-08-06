@@ -27,7 +27,10 @@ Spring Boot Velocity Module For 2.x
     <repository>
         <id>sonatype-snapshot</id>
         <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
-        <snapshots><enabled>true</enabled><updatePolicy>always</updatePolicy></snapshots>
+        <snapshots>
+          <enabled>true</enabled>
+          <updatePolicy>always</updatePolicy>
+        </snapshots>
     </repository>
 </repositories>
 
