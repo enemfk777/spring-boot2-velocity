@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  org.enemfk777.springboot2velocity.autoconfigure.VelocityAutoConfiguration
+  io.github.enemfk777.springboot2velocity.autoconfigure.VelocityAutoConfiguration

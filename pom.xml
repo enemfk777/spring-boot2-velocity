@@ -8,7 +8,7 @@
         <version>2.3.7.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>org.enemfk777</groupId>
+    <groupId>io.github.enemfk777</groupId>
     <artifactId>spring-boot2-velocity</artifactId>
     <version>0.0.2-SNAPSHOT</version>
     <name>spring-boot2-velocity</name>
